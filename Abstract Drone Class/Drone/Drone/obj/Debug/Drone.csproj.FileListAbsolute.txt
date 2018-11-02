@@ -1,0 +1,7 @@
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 4\Abstract Drone Class\Drone\Drone\bin\Debug\Drone.exe.config
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 4\Abstract Drone Class\Drone\Drone\bin\Debug\Drone.exe
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 4\Abstract Drone Class\Drone\Drone\bin\Debug\Drone.pdb
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 4\Abstract Drone Class\Drone\Drone\obj\Debug\Drone.csprojAssemblyReference.cache
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 4\Abstract Drone Class\Drone\Drone\obj\Debug\Drone.csproj.CoreCompileInputs.cache
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 4\Abstract Drone Class\Drone\Drone\obj\Debug\Drone.exe
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 4\Abstract Drone Class\Drone\Drone\obj\Debug\Drone.pdb

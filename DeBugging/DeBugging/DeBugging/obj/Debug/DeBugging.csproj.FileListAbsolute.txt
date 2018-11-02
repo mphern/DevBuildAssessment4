@@ -1,0 +1,7 @@
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 4\DeBugging\DeBugging\DeBugging\bin\Debug\DeBugging.exe.config
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 4\DeBugging\DeBugging\DeBugging\bin\Debug\DeBugging.exe
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 4\DeBugging\DeBugging\DeBugging\bin\Debug\DeBugging.pdb
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 4\DeBugging\DeBugging\DeBugging\obj\Debug\DeBugging.csprojAssemblyReference.cache
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 4\DeBugging\DeBugging\DeBugging\obj\Debug\DeBugging.csproj.CoreCompileInputs.cache
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 4\DeBugging\DeBugging\DeBugging\obj\Debug\DeBugging.exe
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 4\DeBugging\DeBugging\DeBugging\obj\Debug\DeBugging.pdb
